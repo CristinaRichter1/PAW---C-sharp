@@ -1,0 +1,22 @@
+E:\Valy\Facultate\Materii\PAW\Lucru separat\Gestiune Autovehicule\Gestiune Autovehicule\bin\Debug\Gestiune Autovehicule.exe
+E:\Valy\Facultate\Materii\PAW\Lucru separat\Gestiune Autovehicule\Gestiune Autovehicule\bin\Debug\Gestiune Autovehicule.pdb
+E:\Valy\Facultate\Materii\PAW\Lucru separat\Gestiune Autovehicule\Gestiune Autovehicule\obj\Debug\Gestiune_Autovehicule.Automobile.resources
+E:\Valy\Facultate\Materii\PAW\Lucru separat\Gestiune Autovehicule\Gestiune Autovehicule\obj\Debug\Gestiune_Autovehicule.Editare.resources
+E:\Valy\Facultate\Materii\PAW\Lucru separat\Gestiune Autovehicule\Gestiune Autovehicule\obj\Debug\Gestiune_Autovehicule.Grafic.resources
+E:\Valy\Facultate\Materii\PAW\Lucru separat\Gestiune Autovehicule\Gestiune Autovehicule\obj\Debug\Gestiune_Autovehicule.Properties.Resources.resources
+E:\Valy\Facultate\Materii\PAW\Lucru separat\Gestiune Autovehicule\Gestiune Autovehicule\obj\Debug\Gestiune Autovehicule.csproj.GenerateResource.Cache
+E:\Valy\Facultate\Materii\PAW\Lucru separat\Gestiune Autovehicule\Gestiune Autovehicule\obj\Debug\Gestiune Autovehicule.exe
+E:\Valy\Facultate\Materii\PAW\Lucru separat\Gestiune Autovehicule\Gestiune Autovehicule\obj\Debug\Gestiune Autovehicule.pdb
+E:\Valy\Facultate\Materii\PAW\Lucru separat\Gestiune Autovehicule\Gestiune Autovehicule\obj\Debug\Gestiune Autovehicule.csprojResolveAssemblyReference.cache
+C:\Users\Oana\Desktop\Gestiune Autovehicule\Gestiune Autovehicule\obj\Debug\Gestiune Autovehicule.exe
+C:\Users\Oana\Desktop\Gestiune Autovehicule\Gestiune Autovehicule\obj\Debug\Gestiune Autovehicule.pdb
+C:\Users\Oana\Desktop\Gestiune Autovehicule\Gestiune Autovehicule\bin\Debug\Gestiune Autovehicule.exe
+C:\Users\Oana\Desktop\Gestiune Autovehicule\Gestiune Autovehicule\bin\Debug\Gestiune Autovehicule.pdb
+C:\Users\Oana\Desktop\Gestiune Autovehicule\Gestiune Autovehicule\obj\Debug\Gestiune Autovehicule.csprojResolveAssemblyReference.cache
+C:\Users\Oana\Desktop\Gestiune Autovehicule\Gestiune Autovehicule\obj\Debug\Gestiune_Autovehicule.Automobile.resources
+C:\Users\Oana\Desktop\Gestiune Autovehicule\Gestiune Autovehicule\obj\Debug\Gestiune_Autovehicule.Editare.resources
+C:\Users\Oana\Desktop\Gestiune Autovehicule\Gestiune Autovehicule\obj\Debug\Gestiune_Autovehicule.Grafic.resources
+C:\Users\Oana\Desktop\Gestiune Autovehicule\Gestiune Autovehicule\obj\Debug\Gestiune_Autovehicule.Properties.Resources.resources
+C:\Users\Oana\Desktop\Gestiune Autovehicule\Gestiune Autovehicule\obj\Debug\Gestiune Autovehicule.csproj.GenerateResource.Cache
+C:\Users\Oana\Desktop\Gestiune Autovehicule(complet)\Gestiune Autovehicule\obj\Debug\Gestiune Autovehicule.exe
+C:\Users\Oana\Desktop\Gestiune Autovehicule(complet)\Gestiune Autovehicule\obj\Debug\Gestiune Autovehicule.pdb
