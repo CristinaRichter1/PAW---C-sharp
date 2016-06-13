@@ -1,0 +1,10 @@
+E:\Valy\Facultate\Materii\PAW\Lucru separat\Programari cabinet medical\Programari cabinet medical\bin\Debug\Programari cabinet medical.exe
+E:\Valy\Facultate\Materii\PAW\Lucru separat\Programari cabinet medical\Programari cabinet medical\bin\Debug\Programari cabinet medical.pdb
+E:\Valy\Facultate\Materii\PAW\Lucru separat\Programari cabinet medical\Programari cabinet medical\obj\Debug\Programari_cabinet_medical.Adaugare.resources
+E:\Valy\Facultate\Materii\PAW\Lucru separat\Programari cabinet medical\Programari cabinet medical\obj\Debug\Programari_cabinet_medical.Programari.resources
+E:\Valy\Facultate\Materii\PAW\Lucru separat\Programari cabinet medical\Programari cabinet medical\obj\Debug\Programari_cabinet_medical.Properties.Resources.resources
+E:\Valy\Facultate\Materii\PAW\Lucru separat\Programari cabinet medical\Programari cabinet medical\obj\Debug\Programari cabinet medical.csproj.GenerateResource.Cache
+E:\Valy\Facultate\Materii\PAW\Lucru separat\Programari cabinet medical\Programari cabinet medical\obj\Debug\Programari cabinet medical.exe
+E:\Valy\Facultate\Materii\PAW\Lucru separat\Programari cabinet medical\Programari cabinet medical\obj\Debug\Programari cabinet medical.pdb
+E:\Valy\Facultate\Materii\PAW\Lucru separat\Programari cabinet medical\Programari cabinet medical\obj\Debug\Programari cabinet medical.csprojResolveAssemblyReference.cache
+E:\Valy\Facultate\Materii\PAW\Lucru separat\Programari cabinet medical\Programari cabinet medical\obj\Debug\Programari_cabinet_medical.Grafic.resources
